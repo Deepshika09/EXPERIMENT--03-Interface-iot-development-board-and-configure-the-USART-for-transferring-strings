@@ -194,9 +194,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  printf("212224040001\n");
-	  printf("Aadhithan B \n");
-	  printf("CSE\n");
+	  printf("212224220020\n");
+	  printf("Deepshika Hemanth kumar\n");
+	  printf("IT\n");
 	  HAL_Delay(500);
     /* USER CODE END WHILE */
 
