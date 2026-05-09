@@ -195,7 +195,7 @@ int main(void)
   while (1)
   {
 	  printf("212224220020\n");
-	  printf("Deepshika Hemanth kumar\n");
+	  printf("Deepshika hemanth kumar\n");
 	  printf("IT\n");
 	  HAL_Delay(500);
     /* USER CODE END WHILE */
